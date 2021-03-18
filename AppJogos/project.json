@@ -1,8 +1,9 @@
 {
   "engine": "cocos-creator-js",
   "packages": "packages",
-  "name": "AppJogos",
-  "id": "16de85cb-d3dc-4ebc-89b7-40db32fea333",
+  "name": "slot_machine",
+  "uuid": "9869665f-3ee4-450f-b9a3-0246c88c5f98",
   "version": "2.4.4",
+  "id": "c845a03a-feb0-46ea-9e4d-c12be8267179",
   "isNew": false
 }

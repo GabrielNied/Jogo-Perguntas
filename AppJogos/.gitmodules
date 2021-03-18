@@ -1,0 +1,30 @@
+[submodule "assets/_wildsdk/sdk_audio_helper"]
+	path = assets/_wildsdk/sdk_audio_helper
+	url = ../sdk_audio_helper
+[submodule "assets/_wildsdk/sdk_broker"]
+	path = assets/_wildsdk/sdk_broker
+	url = ../sdk_broker
+[submodule "assets/_wildsdk/sdk_currency_fmt"]
+	path = assets/_wildsdk/sdk_currency_fmt
+	url = ../sdk_currency_fmt
+[submodule "assets/_wildsdk/sdk_gui"]
+	path = assets/_wildsdk/sdk_gui
+	url = ../sdk_gui
+[submodule "assets/_wildsdk/sdk_i18n"]
+	path = assets/_wildsdk/sdk_i18n
+	url = ../sdk_i18n
+[submodule "assets/_wildsdk/sdk_line_generator"]
+	path = assets/_wildsdk/sdk_line_generator
+	url = ../sdk_line_generator
+[submodule "assets/_wildsdk/sdk_orientation"]
+	path = assets/_wildsdk/sdk_orientation
+	url = ../sdk_orientation
+[submodule "assets/_wildsdk/sdk_priority_loading"]
+	path = assets/_wildsdk/sdk_priority_loading
+	url = ../sdk_priority_loading
+[submodule "assets/_wildsdk/sdk_stdlib"]
+	path = assets/_wildsdk/sdk_stdlib
+	url = ../sdk_stdlib
+[submodule "assets/_wildsdk/sdk_slot_machine"]
+	path = assets/_wildsdk/sdk_slot_machine
+	url = ../sdk_slot_machine
